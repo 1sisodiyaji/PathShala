@@ -8,20 +8,20 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "surajsinghdeo9@gmail.com",
+    details: "Connect.pathsala@gmail.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Gujrati Sanatan near women college, Bistupur, Jharkhand-833219",
+      "Banglore , Karnataka",
   },
   {
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri From 8am to 5pm",
-    details: "+91-6287904566",
+    details: "+91-6371790702",
   },
 ]
 
